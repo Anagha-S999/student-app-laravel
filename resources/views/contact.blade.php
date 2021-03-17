@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
+    <title>Document</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
@@ -31,31 +31,26 @@
 </nav>
     <div class="container">
     <div class="row">
-    <div class="col col-12 col-sm-6 col-lg-6">
+    <div class="col col-sm-6 col-lg-6">
     <table class="table">
     <tr>
-        <h2><center>Register Now</center></h2>
+        <h2>Contact Page</h2>
         <td>Name</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Roll no</td>
-        <td><input type="text" class="form-control"></td>
+        <td>Message</td>
+        <td><textarea name="" id="" cols="30" rows="10" class="form-control"></textarea></td>
     </tr>
     <tr>
-        <td>Admission no</td>
-        <td><input type="text" class="form-control"></td>
-    </tr>
-    <tr>
-        <td>College</td>
-        <td><input type="text" class="form-control"></td>
+        <td>Phone no</td>
+        <td></td>
     </tr>
     <tr>
         <td></td>
-        <td><button class="btn btn-danger">Register</button></td>
+        <td><button class="btn btn-danger">Submit</button></td>
     </tr>
     </table>
-    </div>
     </div>
     </div>
     </div>
